@@ -3,7 +3,7 @@
 
 require "hanami/action"
 
-module AppPrototype
+module MyApplicationName
   class Action < Hanami::Action
   end
 end
